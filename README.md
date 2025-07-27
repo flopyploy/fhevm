@@ -187,12 +187,6 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
   <a href="#about" > ↑ Back to top </a>
 </p>
 <!-- Edited by me for Zama task -->
-<<<<<<< HEAD
-=======
-
-<!-- Edited by me for Zama task -->
->>>>>>> main
-<!-- Edited by me for Zama task -->
 
 <!-- Edited by me for Zama task -->
 
