@@ -205,4 +205,5 @@ This software is distributed under the **BSD-3-Clause-Clear** license. Read [thi
 <!-- Edited by me for Zama task -->
 <!-- Edited by me for Zama task -->
 <!-- Edited by me for Zama task -->
->>>>>>> 5a0d99a0 (My first commit for Zama quest)
+Add client instructions and update setup
+
